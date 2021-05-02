@@ -5,6 +5,7 @@ RENCANA CONTENTC WPU
   *framework Javascript
   -Vue
   -react
+  -Angular
 - struktur data dasar
 -PHP frameworks
  - Laravel
