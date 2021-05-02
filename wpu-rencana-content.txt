@@ -1,6 +1,8 @@
 RENCANA CONTENTC WPU
 
 -javacript
+  *ES6
+  *framework Javascript
 -PHP frameworks
 -interview
 -vlogs
