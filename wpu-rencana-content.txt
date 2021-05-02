@@ -3,7 +3,9 @@ RENCANA CONTENTC WPU
 -javacript
   *ES6
   *framework Javascript
-- struktur data dasar
+  -Angular
+  -react
 -PHP frameworks
+ -ralavel
 -interview
 -vlogs
